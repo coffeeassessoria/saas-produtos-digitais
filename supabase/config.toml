@@ -1,0 +1,22 @@
+project_id = "rvgdieoywytznlaywluo"
+
+[functions.send-magic-link]
+verify_jwt = false
+
+[functions.generate-recipe-image]
+verify_jwt = false
+
+[functions.kiwify-webhook]
+verify_jwt = false
+
+[functions.refine-recipe]
+verify_jwt = false
+
+[functions.send-campaign]
+verify_jwt = false
+
+[functions.track-email]
+verify_jwt = false
+
+[functions.resend-webhook]
+verify_jwt = false
